@@ -1,2 +1,1 @@
-# cosmic-themes
-My themes for COSMIC.
+# Themes for the COSMIC™ Desktop
